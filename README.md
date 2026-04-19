@@ -39,3 +39,22 @@ A mobile application built with React Native and Expo that helps couples decide 
 
 ### Installation
 ```bash
+git clone https://github.com/sravya1605/Dinner-Recommendation-app.git
+cd Dinner-Recommendation-app
+npm install
+```
+
+### Run the App
+```bash
+npm run dev
+```
+Scan the QR code with Expo Go on your phone, or press w to open in browser.
+
+### Build for Web
+```bash
+npm run build:web
+```
+
+---
+
+## Project Structure
